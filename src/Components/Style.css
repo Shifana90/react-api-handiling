@@ -1,0 +1,50 @@
+.card{
+    width: 250px;
+    height: 270px;
+    text-align: center;
+    background-color: burlywood;
+    margin: 10px;
+    border-radius: 20px;
+}
+.card:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+.card-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card img{
+    width: 150px;
+    border-radius: 50%;
+    padding-top: 20px;
+}
+.page1{
+    color: white;
+    background-color: burlywood;
+    padding: 7px;
+    margin-top: 0px;
+}
+.page2{
+    color: white;
+    background-color: burlywood;
+    padding: 7px;
+    margin-top: 0px;
+}
+
+ .container{
+    text-align: center;
+    width: 350px;
+    height: 400px;
+    background-color: burlywood;
+    border-radius: 20px;
+    margin-left: 450px;
+    margin-top: 100px;
+ }
+ .row img{ 
+   width: 200px;
+   border-radius: 50%;
+   padding-top: 40px;
+
+ }
